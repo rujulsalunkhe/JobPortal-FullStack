@@ -2,7 +2,7 @@
 
 A comprehensive job portal built using React for the front-end and Node.js for the back-end, offering a smooth user experience for job seekers and recruiters alike. This project integrates key features such as job listings, applications, and user profiles, utilizing modern web technologies and best practices in full stack development.
 
-![Getting Started](./Images/Screenshot 2024-11-03 at 1.25.16 PM.png)
+![Getting Started](./images/home.png)
 
 ## Key Features:
 - **Job Listings:** Search and filter job opportunities based on title, location, and skills.
